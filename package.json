@@ -3,14 +3,14 @@
   "version": "1.0.0",
   "description": "Journey Builder Activity Template",
   "engines": {
-    "node": "6.11.1"
+    "node": "v14.17.6"
   },
   "scripts": {
     "start": "node app.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jmaitz/twilio-sfmc.git"
+    "url": "git+https://github.com/Tabreze/Node-AWS-LC-Twilio.git"
   },
   "keywords": [
     "twilio",
@@ -18,14 +18,14 @@
     "journey",
     "builder",
     "salesforce marketing cloud",
-    "heroku"
+    "AWS"
   ],
-  "author": "John Maitz",
+  "author": "Mohammad Tabreze Karimee",
   "license": "",
   "bugs": {
-    "url": "https://github.com/jmaitz/twilio-sfmc/issues"
+    "url": "https://github.com/Tabreze/Node-AWS-LC-Twilio/issues"
   },
-  "homepage": "https://github.com/jmaitz/twilio-sfmc#readme",
+  "homepage": "https://github.com/Tabreze/Node-AWS-LC-Twilio#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
     "bower": "^1.8.0",
